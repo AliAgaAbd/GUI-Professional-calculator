@@ -23,6 +23,7 @@ namespace Professional_calculator
                 random = new Random();
                 playlist = new List<string>
                 {
+                    $"{AppDomain.CurrentDomain.BaseDirectory}\\music1.mp3",
                     $"{AppDomain.CurrentDomain.BaseDirectory}\\music2.mp3", 
                     $"{AppDomain.CurrentDomain.BaseDirectory}\\music3.mp3", 
                     $"{AppDomain.CurrentDomain.BaseDirectory}\\music4.mp3", 
