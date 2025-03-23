@@ -12,7 +12,7 @@
 </p>
 <br>
 
-## ⭐ This is the 2nd release (V1.1.0)
+## ⭐ This is the 3rd release (V1.1.1)
 
 - Calculator with sin, cos, tan , ...
 - AI
