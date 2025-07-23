@@ -2,7 +2,7 @@
 
 ### 🌏 [راهنمای فارسی](https://github.com/AliAgaAbd/GUI-Professional-calculator/blob/main/Persian%20README.md)
 <p align="center">
-   
+<div/>
 </p>
 <br>
 
